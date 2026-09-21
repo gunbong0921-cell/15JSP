@@ -29,3 +29,9 @@
 127.0.0.1 - - [21/Sep/2026:12:03:29 +0900] "GET / HTTP/1.1" 404 808
 127.0.0.1 - - [21/Sep/2026:12:05:01 +0900] "GET / HTTP/1.1" 404 808
 0:0:0:0:0:0:0:1 - - [21/Sep/2026:12:05:01 +0900] "GET /JSPStudy/03EL/Operator2.jsp HTTP/1.1" 200 474
+127.0.0.1 - - [21/Sep/2026:12:17:12 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [21/Sep/2026:12:17:13 +0900] "GET /JSPStudy/03EL/Operator2.jsp HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [21/Sep/2026:12:36:02 +0900] "GET /JSPStudy/03EL/Operator1.jsp HTTP/1.1" 200 1370
+0:0:0:0:0:0:0:1 - - [21/Sep/2026:12:43:58 +0900] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 864
+0:0:0:0:0:0:0:1 - - [21/Sep/2026:12:48:17 +0900] "GET /JSPStudy/03EL/Operator1.jsp HTTP/1.1" 200 2297
+0:0:0:0:0:0:0:1 - - [21/Sep/2026:12:53:37 +0900] "GET /JSPStudy/03EL/Operator2.jsp HTTP/1.1" 200 654
