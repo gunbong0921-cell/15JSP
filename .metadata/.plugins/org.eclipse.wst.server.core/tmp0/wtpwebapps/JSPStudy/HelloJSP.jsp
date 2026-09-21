@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>처음 만들어보는 JSP</h2>
+	<%
+	String str = "금요일";
+	%>
+	오늘은 <%=str %> 입니다. 
+</body>
+</html>

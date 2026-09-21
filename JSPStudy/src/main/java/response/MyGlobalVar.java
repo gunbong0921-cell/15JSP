@@ -1,0 +1,9 @@
+package response;
+
+import jakarta.servlet.ServletContext;
+
+public class MyGlobalVar {
+	public String useImplicitObject(ServletContext app) {
+		return app.getRealPath("/01ImplicitObject");
+	}
+}
